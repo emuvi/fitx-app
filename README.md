@@ -1,3 +1,3 @@
 # FitoApp
 
-FitoApp is an application of a graphical user interface for the Fito command on the Qinpel, the Quick Interface for Pointel platform.
+FitoApp is a Qinpel user application that interacts with the Fito program that is a toolbox with a series of file system utilities.

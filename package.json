@@ -1,0 +1,14 @@
+{
+	"name": "fito-app",
+	"version": "0.1.0",
+	"description": "FitoApp is a Qinpel user application that interacts with the Fito program that is a toolbox with a series of file system utilities.",
+	"main": "./build/main.js",
+	"types": "./types/main.d.ts",
+	"keywords": [],
+	"author": "Éverton M. Vieira",
+	"license": "LGPL-3.0-only",
+	"dependencies": {
+		"qinpel-cps": "file:../qinpel-cps",
+		"qinpel-res": "file:../qinpel-res"
+	}
+}
