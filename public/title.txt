@@ -1,1 +1,1 @@
-QinScaffold
+FitxApp
